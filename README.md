@@ -1,4 +1,8 @@
 # Amazon-Prime-Video-Report-Deshboard-Project
+![pngwing com](https://github.com/user-attachments/assets/fd7da032-99b8-4ec1-9e5c-0e669510be73)
+![Amazon Prime Video Analysis Deshboard Project 2](https://github.com/user-attachments/assets/4578281c-3167-4838-a439-6d705c403153)
+![Amazon Prime Video Analysis Deshboard Project](https://github.com/user-attachments/assets/2ab722ef-cfe9-4bd1-8d99-fac25a59295d)
+
 Amazon Prime Video App Analysis Dashboard Report  I am excited to announce the completion of a new project focused on developing a comprehensive analysis dashboard for the Amazon Prime Video app using Power BI. This dashboard provides insightful visualizations and key performance metrics to track user engagement, content performance, and subscription trends, enabling data-driven decision-making for stakeholders.
 
 Key features of the dashboard include:
