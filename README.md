@@ -11,6 +11,20 @@ User Engagement Metrics: Track user behavior, including viewing patterns, averag
 
 Content Performance Analysis: Evaluate the success of various shows and movies by analyzing metrics such as views, ratings, and completion rates, helping to identify high-performing titles.
 
+
+
+
+## 👨‍💻 Developer Information
+**Created by **Abhishek kumar** 
+**📧 Email**: [abhiydv23096@gmail.com](mailto:abhiydv23096@gmail.com)  
+**🔗 LinkedIn**: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-70a69829a/)  
+**🐙 GitHub Profile**: [@abhishekkumar62000](https://github.com/abhishekkumar62000)  
+**📸 Developer Profile Image**:- <img src="![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)" width="150" height="150" style="border-radius: 50%;" alt="Developer Photo">
+
+![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)
+
+
+
 Subscription Trends: Monitor subscription growth and churn rates over time, providing insights into user retention and the effectiveness of promotional campaigns.
 
 Interactive Visualizations: Utilize dynamic charts and graphs for easy navigation and real-time data analysis, ensuring that insights are accessible and comprehensible.
