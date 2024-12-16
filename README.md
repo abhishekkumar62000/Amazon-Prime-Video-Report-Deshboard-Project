@@ -72,7 +72,7 @@ Welcome to my **Amazon Prime Video Report Dashboard Project**! In this project, 
 
 ## ⚙️ How to Get Started:
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/Amazon-Prime-Video-Report-Dashboard.git`
+   `git clone https://github.com/abhishekkumar62000/Amazon-Prime-Video-Report-Dashboard.git`
 
 2. Install Python dependencies:  
    `pip install -r requirements.txt`
